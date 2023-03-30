@@ -125,6 +125,7 @@ section h1,h2,h3,h4,h5{
 
 p span{
   font-size: 19px;
+  background-color: transparent;
 }
 
 section p{
@@ -136,6 +137,7 @@ section p{
   color: #EFEFEF;
   text-align: center;
   animation: fadein 2s;
+  background-color: transparent;
 }
 
 ::-webkit-scrollbar{
